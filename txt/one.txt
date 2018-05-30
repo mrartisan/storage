@@ -1,2 +1,3 @@
 this is my first txt file for git repository！
 by mrartisan artisan@aliyun.com 2018-05-30
+git lesson1 is from web！
